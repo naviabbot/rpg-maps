@@ -12,18 +12,18 @@
 	"h":12,
 	"skin":{
 		"base":{
-			"bg":5715237,
-			"appBg":1052441,
-			"shadows":425148975,
-			"stairs":-1998203707,
-			"walls":13530947,
-			"dirt":11562056,
-			"doors":15233090,
-			"windows":6809278,
-			"fences":11588072,
-			"furn":13403491,
-			"wallOutline":null,
-			"colorless":false
+			"bg":16777215,
+			"appBg":14606046,
+			"shadows":431931070,
+			"stairs":-1426063361,
+			"walls":1381653,
+			"dirt":13619151,
+			"doors":10592673,
+			"windows":15592941,
+			"fences":9408399,
+			"furn":9408399,
+			"wallOutline":16777215,
+			"colorless":true
 		},
 		"plant1":6270751,
 		"plant2":6270751,
@@ -32,13 +32,13 @@
 		"specialWater2":9478433,
 		"teint":null,
 		"grid":{
-			"id":3,
+			"id":2,
 			"p":[
 				
 			]
 		},
-		"gridColor":16777215,
-		"gridIntensity":0.2,
+		"gridColor":0,
+		"gridIntensity":0.3,
 		"gridDepth":{
 			"id":0,
 			"p":[
@@ -47,7 +47,7 @@
 		},
 		"fogColor":2433347,
 		"fogIntensity":0,
-		"seed":168958,
+		"seed":618559,
 		"printerFriendly":false,
 		"bubbleSkin":{
 			"id":0,
@@ -1719,8 +1719,8 @@
 			}
 		},
 		{
-			"x":22.355,
-			"y":5.225,
+			"x":22.468,
+			"y":5.486,
 			"icon":{
 				"id":2,
 				"p":[
